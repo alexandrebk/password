@@ -1,5 +1,5 @@
 [package]
-name = "variables"
+name = "password"
 version = "0.1.0"
 authors = ["Alexandre Bouvier <alexandre.b2506@gmail.com>"]
 edition = "2018"

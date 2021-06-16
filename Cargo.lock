@@ -511,6 +511,14 @@ dependencies = [
 ]
 
 [[package]]
+name = "password"
+version = "0.1.0"
+dependencies = [
+ "cli-clipboard",
+ "rand",
+]
+
+[[package]]
 name = "petgraph"
 version = "0.5.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -859,14 +867,6 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "382810877fe448991dfc7f0dd6e3ae5d58088fd0ea5e35189655f84e6814fa56"
 dependencies = [
  "void",
-]
-
-[[package]]
-name = "variables"
-version = "0.1.0"
-dependencies = [
- "cli-clipboard",
- "rand",
 ]
 
 [[package]]
